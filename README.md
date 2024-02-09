@@ -3,9 +3,8 @@
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-## This will be the third title for this project using BRANCH 
 
-## I have added the fourth title using FORK 
+## This will be the third title for this project using BRANCH 
 
 Thanks for checking out this front-end coding challenge.
 
